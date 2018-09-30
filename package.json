@@ -1,0 +1,29 @@
+{
+  "name": "testFramework",
+  "version": "1.0.0",
+  "description": "practice protractor",
+  "main": "cucumber.js",
+  "scripts": {
+    "test": "cucumber.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reginaliu113/protractor.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reginaliu113/protractor/issues"
+  },
+  "homepage": "https://github.com/reginaliu113/protractor#readme",
+  "devDependencies": {
+    "protractor-cucumber-framework": "^6.0.0"
+  },
+  "dependencies": {
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "cucumber": "^3.2.1",
+    "protractor": "^5.4.0"
+  }
+}
